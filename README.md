@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-### Hi there 👋
 My name is Vanela
 
 #### Skills
@@ -10,6 +8,3 @@ My name is Vanela
 ✨MySQL  ✨BI tools ✨G Suite  ✨Excel
 
 🔹 Problem resolver 🔹 Fast learner  🔹 Enthusiastic 
-
-
--->
