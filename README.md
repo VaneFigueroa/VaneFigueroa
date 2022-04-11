@@ -15,4 +15,4 @@ My name is Vanela, I’m an Economist and Master of Applied Statistics student.
 #### Contact 
 📫 How to reach me: [vanelafigueroarobles\@gmail.com](vanelafigueroarobles@gmail.com)
 
-⚡ Fun quote: *Keep Calm and  Be Significant*
+😄 Fun quote: *"Keep Calm and  Be Significant"*
