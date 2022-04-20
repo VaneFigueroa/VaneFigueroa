@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Vanela, I’m an Economist and Master of Applied Statistics student.
- - I’m currently gaining experience in the yield of data and business analytics
+ - I’m currently gaining experience in the field of data and business analytics
  - I’m looking for help with my background in economy and statistics
  - I offer consulting hours
  
