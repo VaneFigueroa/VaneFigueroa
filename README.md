@@ -6,7 +6,7 @@ My name is Vanela, I’m an Economist and Master of Applied Statistics student.
  
  💬 Ask me about exploratory data analysis, testing hypotheses, building forecast, creating predictive models, measuring  and reporting business performance. 
 ####  Skills 
-- Relational database management systems with MysSQL
+- Relational database management systems with MySQL
 - Programming languages: R and Python
 - BI tools: Power BI and Tableau
 - Statistical software: SPSS and Stata 
