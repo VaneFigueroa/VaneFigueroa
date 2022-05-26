@@ -11,7 +11,7 @@ My name is Vanela, I’m an Economist and Master of Applied Statistics student.
 - BI tools: Power BI and Tableau
 - Statistical software: SPSS and Stata 
 - Others data analytics tools: Excel and Matlab
-- Problem resolver with  critical thinking 
+- Problem-solver with  critical thinking 
 - Faster learner and enthusiastic 
 #### Contact 
 📫 How to reach me: [vanelafigueroarobles\@gmail.com](vanelafigueroarobles@gmail.com)
